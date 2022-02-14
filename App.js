@@ -1,55 +1,41 @@
-/**
- * Sample React Native App
- * https://github.com/facebook/react-native
- *
- * @format
- * @flow strict-local
- */
-
 import React from 'react';
+import codePush from 'react-native-code-push';
 import type {Node} from 'react';
-import {
-  SafeAreaView,
-  ScrollView,
-  StatusBar,
-  StyleSheet,
-  Text,
-  useColorScheme,
-  View,
-} from 'react-native';
+import {ScrollView, StatusBar, Text, useColorScheme, View} from 'react-native';
 
-import {
-  Colors,
-  DebugInstructions,
-  Header,
-  LearnMoreLinks,
-  ReloadInstructions,
-} from 'react-native/Libraries/NewAppScreen';
+import {Colors, Header} from 'react-native/Libraries/NewAppScreen';
 
-const Section = ({children, title}): Node => {
-  const isDarkMode = useColorScheme() === 'dark';
-  return (
-    <View style={styles.sectionContainer}>
-      <Text
-        style={[
-          styles.sectionTitle,
-          {
-            color: isDarkMode ? Colors.white : Colors.black,
-          },
-        ]}>
-        {title}
-      </Text>
-      <Text
-        style={[
-          styles.sectionDescription,
-          {
-            color: isDarkMode ? Colors.light : Colors.dark,
-          },
-        ]}>
-        {children}
-      </Text>
-    </View>
-  );
+let codePushOptions = {
+  // 何时检查更新（ON_APP_START:程序启动  ON_APP_RESUME:程序从后台进入前台  MANUAL:手动控制）
+  checkFrequency: codePush.CheckFrequency.ON_APP_RESUME,
+  // 何时安装（ON_NEXT_RESTART:下次程序启动  ON_NEXT_RESUME:下次程序从后台进入前台  ON_NEXT_SUSPEND:在后台更新  IMMEDIATE:立即更新，并启动程序）
+  installMode: codePush.InstallMode.IMMEDIATE,
+  // 表示重启程序之前，在后台呆的最短时间
+  minimumBackgroundDuration: 0,
+  // 强制更新，并启动
+  mandatoryInstallMode: codePush.InstallMode.IMMEDIATE,
+  // 更新时候的提示更新框
+  updateDialog: {
+    // 标题
+    title: '发现新版本',
+
+    // 确认按钮标题
+    optionalInstallButtonLabel: '更新',
+    // 忽略按钮标题
+    optionalIgnoreButtonLabel: '忽略',
+    // 非强制更新情况下，提示框内容
+    optionalUpdateMessage: '有新内容，是否需要更新？',
+
+    // 强制更新按钮标题
+    mandatoryContinueButtonLabel: '立即更新',
+    // 强制更新情况下，提示框内容
+    mandatoryUpdateMessage: '有新内容，请立即更新',
+
+    // 是否将版本描述添加在提示框中
+    appendReleaseDescription: true,
+    // 添加的描述前缀
+    descriptionPrefix: '更新内容：',
+  },
 };
 
 const App: () => Node = () => {
@@ -60,53 +46,15 @@ const App: () => Node = () => {
   };
 
   return (
-    <SafeAreaView style={backgroundStyle}>
+    <View>
       <StatusBar barStyle={isDarkMode ? 'light-content' : 'dark-content'} />
-      <ScrollView
-        contentInsetAdjustmentBehavior="automatic"
-        style={backgroundStyle}>
-        <Header />
-        <View
-          style={{
-            backgroundColor: isDarkMode ? Colors.black : Colors.white,
-          }}>
-          <Section title="Step One">
-            Edit <Text style={styles.highlight}>App.js</Text> to change this
-            screen and then come back to see your edits.
-          </Section>
-          <Section title="See Your Changes">
-            <ReloadInstructions />
-          </Section>
-          <Section title="Debug">
-            <DebugInstructions />
-          </Section>
-          <Section title="Learn More">
-            Read the docs to discover what to do next:
-          </Section>
-          <LearnMoreLinks />
-        </View>
-      </ScrollView>
-    </SafeAreaView>
+      <Header />
+      <View>
+        <Text>Base</Text>
+        <Text>Test Android</Text>
+      </View>
+    </View>
   );
 };
 
-const styles = StyleSheet.create({
-  sectionContainer: {
-    marginTop: 32,
-    paddingHorizontal: 24,
-  },
-  sectionTitle: {
-    fontSize: 24,
-    fontWeight: '600',
-  },
-  sectionDescription: {
-    marginTop: 8,
-    fontSize: 18,
-    fontWeight: '400',
-  },
-  highlight: {
-    fontWeight: '700',
-  },
-});
-
-export default App;
+export default codePush(codePushOptions)(App);

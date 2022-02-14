@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="46px" height="46px" viewBox="0 0 46 46" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>矩形</title>
+    <desc>Created with Sketch.</desc>
+    <g id="社交" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="4.2-添加朋友-(Add-Friends)" transform="translate(-164.000000, -300.000000)" fill="#000000" fill-rule="nonzero">
+            <g id="编组" transform="translate(79.000000, 300.000000)">
+                <g id="二维码" transform="translate(85.000000, 0.000000)">
+                    <rect id="矩形" opacity="0" x="0" y="0" width="46" height="46"></rect>
+                    <path d="M41.4,27.6 L41.4,23 L46,23 L46,27.6 L41.4,27.6 Z M41.4,0 L46,0 L46,18.4 L41.4,18.4 L41.4,0 Z M32.2,9.2 L36.8,9.2 L36.8,27.6 L32.2,27.6 L32.2,9.2 Z M32.2,0 L36.8,0 L36.8,4.6 L32.2,4.6 L32.2,0 Z M46,46 L32.2,46 L32.2,32.2 L46,32.2 L46,46 Z M41.4,36.8 L36.8,36.8 L36.8,41.4 L41.4,41.4 L41.4,36.8 Z M9.2,41.4 L27.6,41.4 L27.6,46 L9.2,46 L9.2,41.4 Z M23,32.2 L27.6,32.2 L27.6,36.8 L23,36.8 L23,32.2 Z M0,0 L27.6,0 L27.6,27.6 L0,27.6 L0,0 Z M4.6,23 L23,23 L23,4.6 L4.6,4.6 L4.6,23 Z M9.2,9.2 L18.4,9.2 L18.4,18.4 L9.2,18.4 L9.2,9.2 Z M18.4,36.8 L0,36.8 L0,32.2 L18.4,32.2 L18.4,36.8 Z M4.6,46 L0,46 L0,41.4 L4.6,41.4 L4.6,46 Z" id="形状"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

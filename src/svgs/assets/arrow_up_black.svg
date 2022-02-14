@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>矩形</title>
+    <desc>Created with Sketch.</desc>
+    <g id="设计规范" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="图标" transform="translate(-734.000000, -84.000000)">
+            <g id="分组-copy" transform="translate(744.000000, 94.000000) scale(1, -1) translate(-744.000000, -94.000000) translate(734.000000, 84.000000)">
+                <rect id="矩形" fill="#000000" opacity="0" x="0" y="0" width="20" height="20"></rect>
+                <polygon id="路径" fill="#444444" fill-rule="nonzero" points="11.7818182 12.3768116 10 14 8.21818181 12.3768116 3 7.62318842 4.78181817 6 10 10.7536232 15.2181818 6 17 7.62318842 11.7818182 12.3768116"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

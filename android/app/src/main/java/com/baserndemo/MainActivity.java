@@ -12,4 +12,8 @@ public class MainActivity extends ReactActivity {
   protected String getMainComponentName() {
     return "BaseRNDemo";
   }
+  @Override
+  protected void onCreate(Bundle savedInstanceState) {
+    super.onCreate(null);
+  }
 }

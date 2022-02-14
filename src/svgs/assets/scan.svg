@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="46px" height="46px" viewBox="0 0 46 46" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>矩形</title>
+    <desc>Created with Sketch.</desc>
+    <g id="设计规范" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="图标设计" transform="translate(-353.000000, -1081.000000)">
+            <g id="扫一扫" transform="translate(353.000000, 1081.000000)">
+                <path d="M42.9333333,42.9333333 L3.06666668,42.9333333 L3.06666668,32.9666667 L6.13333332,32.9666667 L6.13333332,39.8666667 L39.8666667,39.8666667 L39.8666667,32.9666667 L42.9333333,32.9666667 L42.9333333,42.9333333 Z M42.9333333,13.0333333 L39.8666667,13.0333333 L39.8666667,6.13333332 L6.13333332,6.13333332 L6.13333332,13.0333333 L3.06666668,13.0333333 L3.06666668,3.06666668 L42.9333333,3.06666668 L42.9333333,13.0333333 Z" id="形状" fill="#333333" fill-rule="nonzero"></path>
+                <polygon id="路径" fill="#333333" points="3.06666668 20.7 42.9333333 20.7 42.9333333 23.7666667 3.06666668 23.7666667"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

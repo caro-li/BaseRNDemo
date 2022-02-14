@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="222px" height="74px" viewBox="0 0 222 74" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>会员按钮</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="50%" x2="100%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#C1B07D" offset="0%"></stop>
+            <stop stop-color="#E5D5A4" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="我的" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.5">
+        <g id="4.6-会员升级" transform="translate(-468.000000, -923.000000)">
+            <g id="V0" transform="translate(30.000000, 688.000000)">
+                <g id="会员按钮" transform="translate(438.000000, 235.000000)">
+                    <rect id="矩形" fill="url(#linearGradient-1)" x="0" y="0" width="222" height="74" rx="37"></rect>
+                    <text id="默认开通" font-family="PingFangSC-Medium, PingFang SC" font-size="30" font-weight="400" fill="#FFFFFF">
+                        <tspan x="66" y="48">已达成</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="116px" height="14px" viewBox="0 0 116 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>分组 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="47.7451309%" x2="-3.33066907e-14%" y2="47.7451309%" id="linearGradient-1">
+            <stop stop-color="#FE9339" offset="0%"></stop>
+            <stop stop-color="#FF6132" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="98.611362%" y1="1.38863801%" x2="1.11022302e-14%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#FE9139" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="UI设计" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="4.5.-我的推荐" transform="translate(-465.000000, -979.000000)">
+            <g id="分组-8" transform="translate(16.000000, 935.000000)">
+                <g id="邀请记录" transform="translate(153.000000, 30.000000)">
+                    <g id="分组-3" transform="translate(295.000000, 13.000000)">
+                        <rect id="矩形-copy-2" fill="url(#linearGradient-1)" transform="translate(8.000000, 8.000000) rotate(-315.000000) translate(-8.000000, -8.000000) " x="3" y="3" width="10" height="10"></rect>
+                        <rect id="矩形-copy-3" fill="url(#linearGradient-2)" transform="translate(70.000000, 8.000000) scale(-1, 1) translate(-70.000000, -8.000000) " x="23" y="6" width="94" height="4"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="106px" height="106px" viewBox="0 0 106 106" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>喜欢图标</title>
+    <desc>Created with Sketch.</desc>
+    <g id="设计规范" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="图标设计" transform="translate(-1065.000000, -2768.000000)">
+            <g id="喜欢图标" transform="translate(1068.000000, 2771.000000)">
+                <circle id="椭圆形" stroke="#D9D9D9" stroke-width="6" fill="#FFFFFF" opacity="0.5" cx="50" cy="50" r="50"></circle>
+                <g id="爱心" transform="translate(25.000000, 25.000000)">
+                    <g id="分组">
+                        <rect id="矩形" fill="#000000" opacity="0" x="0" y="0" width="50" height="50"></rect>
+                        <path d="M25.2348356,45.0034976 C25.2348356,45.0034976 -6.95263315,23.4635755 7.05755972,8.01438994 C7.94194067,7.04007197 9.03617471,6.2706106 10.2603178,5.77595684 C16.3710403,3.3126811 20.992805,5.83091836 23.3411612,7.71459976 C24.3454582,8.52403315 25.7844509,8.52403315 26.7887479,7.71459976 C29.1820726,5.79594282 33.9337464,3.21275107 40.224343,5.92085542 C41.1936645,6.34056162 42.0830419,6.93014893 42.8375137,7.66963125 C57.8020386,22.2993904 25.2348356,45.0034976 25.2348356,45.0034976" id="路径" fill="#F11824"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

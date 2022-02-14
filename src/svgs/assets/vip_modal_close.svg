@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="82px" height="82px" viewBox="0 0 82 82" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>分组 4</title>
+    <desc>Created with Sketch.</desc>
+    <g id="设计规范" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="图标设计" transform="translate(-1206.000000, -2780.000000)">
+            <g id="分组-4" transform="translate(1207.000000, 2781.000000)">
+                <circle id="椭圆形" stroke="#FFFFFF" stroke-width="2" cx="40" cy="40" r="40"></circle>
+                <path d="M41.263456,39.8492424 L54.6984848,53.2842712 L53.2842712,54.6984848 L39.8492424,41.263456 L26.4142136,54.6984848 L25,53.2842712 L38.4350288,39.8492424 L25,26.4142136 L26.4142136,25 L39.8492424,38.4350288 L53.2842712,25 L54.6984848,26.4142136 L41.263456,39.8492424 Z" id="合并形状" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

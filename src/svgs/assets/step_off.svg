@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="38px" height="38px" viewBox="0 0 38 38" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>矩形</title>
+    <desc>Created with Sketch.</desc>
+    <g id="设计规范" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="图标" transform="translate(-546.000000, -78.000000)">
+            <g id="分组-6-copy" transform="translate(546.000000, 78.000000)">
+                <g id="分组-5" transform="translate(1.000000, 1.000000)">
+                    <circle id="椭圆形" fill="#F7F8F9" cx="18" cy="18" r="18"></circle>
+                    <circle id="椭圆形" fill="#E4E5E7" cx="18" cy="18" r="8"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

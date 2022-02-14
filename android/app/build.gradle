@@ -82,6 +82,7 @@ project.ext.react = [
 ]
 
 apply from: "../../node_modules/react-native/react.gradle"
+apply from: "../../node_modules/react-native-code-push/android/codepush.gradle"
 
 /**
  * Set this to true to create two separate APKs instead of one:
@@ -130,6 +131,11 @@ android {
 
     compileSdkVersion rootProject.ext.compileSdkVersion
 
+    lintOptions {
+        checkReleaseBuilds false
+        abortOnError false
+    }
+
     defaultConfig {
         applicationId "com.baserndemo"
         minSdkVersion rootProject.ext.minSdkVersion
@@ -156,16 +162,38 @@ android {
     buildTypes {
         debug {
             signingConfig signingConfigs.debug
+            resValue "string", "CodePushDeploymentKey", '""'
+            resValue "string", "app_name", '"BRD debug"'
             if (nativeArchitectures) {
                 ndk {
                     abiFilters nativeArchitectures.split(',')
                 }
             }
         }
+        releaseTest {
+            // Caution! In production, you need to generate your own keystore file.
+            // see https://reactnative.dev/docs/signed-apk-android.
+            signingConfig signingConfigs.debug
+            resValue "string", "CodePushDeploymentKey", '"pUkslZOnG--HVupMVypanlEys9cbFYGF2kmpK"'
+            resValue "string", "app_name", '"BRD beta"'
+            minifyEnabled enableProguardInReleaseBuilds
+            proguardFiles getDefaultProguardFile("proguard-android.txt"), "proguard-rules.pro"
+        }
+        releaseStaging {
+            // Caution! In production, you need to generate your own keystore file.
+            // see https://reactnative.dev/docs/signed-apk-android.
+            signingConfig signingConfigs.debug
+            resValue "string", "CodePushDeploymentKey", '"pUkslZOnG--HVupMVypanlEys9cbFYGF2kmpK"'
+            resValue "string", "app_name", '"BRD staging"'
+            minifyEnabled enableProguardInReleaseBuilds
+            proguardFiles getDefaultProguardFile("proguard-android.txt"), "proguard-rules.pro"
+        }
         release {
             // Caution! In production, you need to generate your own keystore file.
             // see https://reactnative.dev/docs/signed-apk-android.
             signingConfig signingConfigs.debug
+            resValue "string", "CodePushDeploymentKey", '"5JpwLJUvc8y6z9amPt86X_dk8NCPSJ9Ala3fL"'
+            resValue "string", "app_name", '"BRD prod"'
             minifyEnabled enableProguardInReleaseBuilds
             proguardFiles getDefaultProguardFile("proguard-android.txt"), "proguard-rules.pro"
         }

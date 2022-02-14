@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>矩形</title>
+    <desc>Created with Sketch.</desc>
+    <g id="设计规范" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-81.000000, -254.000000)" id="商铺">
+            <g transform="translate(81.000000, 254.000000)">
+                <g id="分组">
+                    <path d="M29,32 L31,32 L29,34 L29,32 Z M29,32 L29,17 L31,17 L31,34 L5,34 L5,17 L7,17 L7,32 L29,32 Z M7,32 L7,34 L5,32 L7,32 Z M7,32 L7,34 L5,32 L7,32 Z M7,32 L29,32 L29,17 L31,17 L31,34 L5,34 L5,17 L7,17 L7,32 Z M29,32 L31,32 L29,34 L29,32 Z" id="路径" fill="#333333" fill-rule="nonzero"></path>
+                    <path d="M14,22 L14,32 L22,32 L22,22 L14,22 Z M12,20 L24,20 L24,34 L12,34 L12,20 Z" id="矩形" fill="#FE9339" fill-rule="nonzero"></path>
+                    <rect id="矩形" fill="#FE9339" x="12" y="24" width="12" height="2"></rect>
+                    <path d="M5.82992629,3 L3.20492629,17 L32.7950737,17 L30.1700737,3 L5.82992629,3 Z" id="矩形" stroke="#333333" stroke-width="2" fill="#FFFFFF"></path>
+                    <rect id="矩形" fill="#333333" transform="translate(10.160947, 9.564097) rotate(9.000000) translate(-10.160947, -9.564097) " x="9.16094683" y="2.06409702" width="2" height="15"></rect>
+                    <rect id="矩形-copy-6" fill="#333333" transform="translate(16.160947, 9.564097) rotate(9.000000) translate(-16.160947, -9.564097) " x="15.1609468" y="2.06409702" width="2" height="15"></rect>
+                    <rect id="矩形-copy-7" fill="#333333" transform="translate(22.160947, 9.564097) rotate(9.000000) translate(-22.160947, -9.564097) " x="21.1609468" y="2.06409702" width="2" height="15"></rect>
+                    <rect id="矩形-copy-8" fill="#333333" transform="translate(28.160947, 9.564097) rotate(9.000000) translate(-28.160947, -9.564097) " x="27.1609468" y="2.06409702" width="2" height="15"></rect>
+                    <rect id="矩形-copy-3" fill="#FE9339" x="12" y="28" width="12" height="2"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
