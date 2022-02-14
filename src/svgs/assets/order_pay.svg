@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="46px" height="46px" viewBox="0 0 46 46" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>矩形</title>
+    <desc>Created with Sketch.</desc>
+    <g id="我的" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="4-我的" transform="translate(-97.000000, -651.000000)" fill="#FFFFFF" stroke="#333333" stroke-width="3">
+            <g id="我的钱包备份" transform="translate(30.000000, 525.000000)">
+                <g id="代付款" transform="translate(51.000000, 126.000000)">
+                    <g id="daifukuan-2" transform="translate(16.000000, 0.000000)">
+                        <path d="M7,6 L35,6 C38.3137085,6 41,8.6862915 41,12 L41,15.8055458" id="路径" stroke-linecap="round" stroke-linejoin="round" transform="translate(24.000000, 10.902773) rotate(-15.000000) translate(-24.000000, -10.902773) "></path>
+                        <rect id="矩形" x="1.5" y="11.5" width="43" height="33" rx="6"></rect>
+                        <path d="M44.5,34.5 L44.5,21.5 L36,21.5 C32.4101491,21.5 29.5,24.4101491 29.5,28 C29.5,31.5898509 32.4101491,34.5 36,34.5 L44.5,34.5 Z" id="矩形"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

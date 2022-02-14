@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>分组 6</title>
+    <desc>Created with Sketch.</desc>
+    <g id="UI设计" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1.5.-数据统计" transform="translate(-60.000000, -632.000000)">
+            <g id="分组-8" transform="translate(30.000000, 592.000000)">
+                <g id="分组-6" transform="translate(30.000000, 40.000000)">
+                    <circle id="椭圆形" fill="#FFF4EC" cx="40" cy="40" r="40"></circle>
+                    <g id="chengjiao" transform="translate(20.000000, 19.000000)" fill="#FF6C00" fill-rule="nonzero">
+                        <path d="M0.0294334216,37.7041943 L22.6342899,37.7041943 L22.6342899,41.4716703 L0.0294334216,41.4716703 L0.0294334216,37.7041943 Z M8.02590141,13.3493451 L13.3549963,8.02119205 L39.9948197,34.6619573 L34.6666667,39.9891685 L8.02590141,13.3493451 Z M21.3411038,0.0350846358 L31.996468,10.6913907 L26.6692568,16.0186019 L16.0129507,5.36323766 L21.3411038,0.0350846358 Z M5.35758645,16.0186019 L16.0129507,26.674908 L10.6857395,32.0030611 L0.0294334216,21.346755 L5.35758645,16.0186019 Z" id="形状"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

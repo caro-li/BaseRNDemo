@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "41C512EF27B262460034B6E0"
+               BlueprintIdentifier = "414C89A127BA25BC006C8307"
                BuildableName = "BaseRNDemoStaging.app"
                BlueprintName = "BaseRNDemoStaging"
                ReferencedContainer = "container:BaseRNDemo.xcodeproj">
@@ -44,7 +44,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "41C512EF27B262460034B6E0"
+            BlueprintIdentifier = "414C89A127BA25BC006C8307"
             BuildableName = "BaseRNDemoStaging.app"
             BlueprintName = "BaseRNDemoStaging"
             ReferencedContainer = "container:BaseRNDemo.xcodeproj">
@@ -61,7 +61,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "41C512EF27B262460034B6E0"
+            BlueprintIdentifier = "414C89A127BA25BC006C8307"
             BuildableName = "BaseRNDemoStaging.app"
             BlueprintName = "BaseRNDemoStaging"
             ReferencedContainer = "container:BaseRNDemo.xcodeproj">

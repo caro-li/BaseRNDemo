@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="46px" height="46px" viewBox="0 0 46 46" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>返回</title>
+    <desc>Created with Sketch.</desc>
+    <g id="设计规范" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="图标设计" transform="translate(-258.000000, -456.000000)">
+            <g id="返回" transform="translate(258.000000, 456.000000)">
+                <circle id="椭圆形" fill-opacity="0.3" fill="#333333" cx="23" cy="23" r="22"></circle>
+                <g transform="translate(5.000000, 5.000000)">
+                    <g>
+                        <rect id="矩形" fill="#000000" opacity="0" x="0" y="0" width="36" height="36"></rect>
+                        <polygon id="路径" fill="#FFFFFF" fill-rule="nonzero" points="25.3512711 6.11198801 13.6085914 17.8546677 25.3455088 29.5915851 23.387367 31.549727 9.69230769 17.8546677 23.3931293 4.15384615"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

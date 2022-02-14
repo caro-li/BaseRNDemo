@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1020px" height="119px" viewBox="0 0 1020 119" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>矩形</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="50%" x2="-1.11022302e-14%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#FE7935" offset="0%"></stop>
+            <stop stop-color="#F3AE8B" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="规范" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="VIP切图" transform="translate(-3950.000000, -866.000000)">
+            <g id="编组-6备份-3" transform="translate(3950.000000, 566.000000)">
+                <g id="编组" transform="translate(0.000000, 300.000000)">
+                    <rect id="矩形" fill="#3C393A" x="0" y="97" width="1020" height="8"></rect>
+                    <path d="M0,97 L435,97 C437.209139,97 439,98.790861 439,101 C439,103.209139 437.209139,105 435,105 L0,105 L0,105 L0,97 Z" id="矩形" fill="url(#linearGradient-1)"></path>
+                    <g id="点" transform="translate(423.000000, 88.000000)" fill="#F4DAAB">
+                        <circle id="椭圆形" cx="13" cy="13" r="5"></circle>
+                        <circle id="椭圆形" opacity="0.496000744" cx="13" cy="13" r="13"></circle>
+                    </g>
+                    <g id="V0" transform="translate(21.000000, 0.000000)">
+                        <text id="普通会员" font-family="PingFangSC-Regular, PingFang SC" font-size="22" font-weight="normal" fill="#FFFFFF">
+                            <tspan x="0" y="60">普通会员</tspan>
+                        </text>
+                        <text font-family="PingFangSC-Medium, PingFang SC" font-size="26" font-weight="400" fill="#FE7935">
+                            <tspan x="28" y="28">V0</tspan>
+                        </text>
+                    </g>
+                    <g id="V1" transform="translate(169.000000, 0.000000)">
+                        <text id="VIP1" font-family="PingFangSC-Regular, PingFang SC" font-size="22" font-weight="normal" fill="#FFFFFF">
+                            <tspan x="0.891" y="60">VIP1</tspan>
+                        </text>
+                        <text font-family="PingFangSC-Medium, PingFang SC" font-size="26" font-weight="400" fill="#FE7935">
+                            <tspan x="6" y="28">V1</tspan>
+                        </text>
+                    </g>
+                    <g id="V2" transform="translate(273.000000, 0.000000)">
+                        <text id="VIP2" font-family="PingFangSC-Regular, PingFang SC" font-size="22" font-weight="normal" fill="#FFFFFF">
+                            <tspan x="0.702" y="60">VIP2</tspan>
+                        </text>
+                        <text font-family="PingFangSC-Medium, PingFang SC" font-size="26" font-weight="400" fill="#FE7935">
+                            <tspan x="8" y="28">V2</tspan>
+                        </text>
+                    </g>
+                    <g id="V3" transform="translate(381.000000, 0.000000)">
+                        <text id="初级服务商" font-family="PingFangSC-Regular, PingFang SC" font-size="22" font-weight="normal" fill="#FFFFFF">
+                            <tspan x="0" y="60">初级服务商</tspan>
+                        </text>
+                        <text font-family="PingFangSC-Medium, PingFang SC" font-size="26" font-weight="400" fill="#FE7935">
+                            <tspan x="39" y="28">V3</tspan>
+                        </text>
+                    </g>
+                    <g id="V4" transform="translate(551.000000, 0.000000)">
+                        <text id="中级服务商" font-family="PingFangSC-Regular, PingFang SC" font-size="22" font-weight="normal" fill="#FFFFFF">
+                            <tspan x="0" y="60">中级服务商</tspan>
+                        </text>
+                        <text font-family="PingFangSC-Medium, PingFang SC" font-size="26" font-weight="400" fill="#FE7935">
+                            <tspan x="39" y="28">V4</tspan>
+                        </text>
+                    </g>
+                    <g id="V5" transform="translate(721.000000, 0.000000)">
+                        <text id="高级服务商" font-family="PingFangSC-Regular, PingFang SC" font-size="22" font-weight="normal" fill="#FFFFFF">
+                            <tspan x="0" y="60">高级服务商</tspan>
+                        </text>
+                        <text font-family="PingFangSC-Medium, PingFang SC" font-size="26" font-weight="400" fill="#FE7935">
+                            <tspan x="39" y="28">V5</tspan>
+                        </text>
+                    </g>
+                    <g id="V5备份-4" transform="translate(891.000000, 0.000000)">
+                        <text id="节点" font-family="PingFangSC-Regular, PingFang SC" font-size="22" font-weight="normal" fill="#FFFFFF">
+                            <tspan x="0" y="60">节点</tspan>
+                        </text>
+                        <text id="V6" font-family="PingFangSC-Medium, PingFang SC" font-size="26" font-weight="400" fill="#FE7935">
+                            <tspan x="6" y="28">V6</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

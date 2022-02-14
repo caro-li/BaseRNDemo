@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>矩形</title>
+    <desc>Created with Sketch.</desc>
+    <g id="我的" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="5-我的-(Me---Main-DApp)" transform="translate(-36.000000, -312.000000)" fill-rule="nonzero">
+            <g id="推荐" transform="translate(36.000000, 312.000000)">
+                <rect id="矩形" fill="#000000" opacity="0" x="0" y="0" width="50" height="50"></rect>
+                <path d="M25.1,31.1 L37.8,41.9 L36.3,49 L25.1,41 L13.9,49 L12.4,41.8 L25.1,31.1 Z M41.8,12.2 L49,13.7 L41,25 L49,36.2 L41.8,37.8 L31,25 L41.8,12.2 Z M8.2,12.2 L19,25 L8.2,37.7 L1,36.2 L9,25 L1,13.8 L8.2,12.2 Z M25,22 C26.7,22 28,23.3 28,25 C28,26.1 27.4,27.1 26.5,27.6 C25.6,28.1 24.4,28.1 23.5,27.6 C22.6,27.1 22,26.1 22,25 C22,23.3 23.3,22 25,22 Z M36.3,1 L37.8,8.2 L25.1,19 L12.4,8.2 L13.9,1 L25.1,9 L36.3,1 Z" id="形状" fill="#FE7935"></path>
+            </g>
+        </g>
+    </g>
+</svg>

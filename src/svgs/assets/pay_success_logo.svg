@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="332px" height="334px" viewBox="0 0 332 334" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>编组</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="100" cy="100" r="100"></circle>
+        <filter x="-57.5%" y="-47.5%" width="215.0%" height="215.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feMorphology radius="5" operator="erode" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="20" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="40" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.0666666667   0 0 0 0 0.811764706   0 0 0 0 0.478431373  0 0 0 0.598858173 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="购物车" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="3.3.3-支付成功" transform="translate(-209.000000, -321.000000)">
+            <g id="编组" transform="translate(275.000000, 368.000000)">
+                <g id="椭圆形">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#11CF7A" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <g id="勾" transform="translate(40.000000, 40.000000)" fill-rule="nonzero">
+                    <rect id="矩形" fill="#000000" opacity="0" x="0" y="0" width="120" height="120"></rect>
+                    <polygon id="路径" fill="#FFFFFF" points="117.7152 31.2687 48.9177 100.8969 46.9032 102.79455 44.8887 100.8969 2.2848 57.7779 16.17585 43.7169 46.8999 74.8161 103.82415 17.2056"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

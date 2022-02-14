@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>矩形</title>
+    <desc>Created with Sketch.</desc>
+    <g id="首页" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="2-首页-(Home---Main-DApp)" transform="translate(-666.000000, -649.000000)" fill="#BFBFBF">
+            <g id="未读消息栏" transform="translate(24.000000, 615.000000)">
+                <g id="向右" transform="translate(642.000000, 34.000000)">
+                    <path d="M17.9852814,15.1066017 L8.43933983,5.56066017 C7.85355339,4.97487373 7.85355339,4.02512627 8.43933983,3.43933983 C9.02512627,2.85355339 9.97487373,2.85355339 10.5606602,3.43933983 L21.1672619,14.0459415 C21.7530483,14.631728 21.7530483,15.5814755 21.1672619,16.1672619 L10.5606602,26.7738636 C9.97487373,27.35965 9.02512627,27.35965 8.43933983,26.7738636 C7.85355339,26.1880772 7.85355339,25.2383297 8.43933983,24.6525433 L17.9852814,15.1066017 Z" id="路径"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

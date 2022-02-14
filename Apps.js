@@ -7,11 +7,12 @@ import { NavigationContainer } from '@react-navigation/native';
 import { createNativeStackNavigator } from '@react-navigation/native-stack';
 import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
 import React from "react";
-import {Text} from "react-native"
+import {Text, View, Image, StyleSheet} from "react-native"
 import MainHome from "./src/pages/mainTabs/MainHome";
 import MainHomeDetail from "./src/pages/mainHome/Detail";
 import Profile from "./src/pages/mainTabs/Profile";
 import ProfileDetail from "./src/pages/profile/detail";
+import {apx} from "./src/utils/device";
 // import Ionicons from 'react-native-vector-icons/Ionicons';
 
 
@@ -45,18 +46,55 @@ export default function Main() {
       <Tab.Navigator
         screenOptions={({ route }) => ({
           tabBarIcon: ({ focused, color, size }) => {
-            let iconName;
-
-            if (route.name === 'Home') {
-              iconName = focused
-                ? 'ios-information-circle'
-                : 'ios-information-circle-outline';
-            } else if (route.name === 'Settings') {
-              iconName = focused ? 'ios-list-box' : 'ios-list';
+            const tabLabels = {
+              MainHome: '首页',
+              DApp: '应用',
+              Social: '社交',
+              MainMe: '我的',
+            }
+            const images = {
+              Main: {
+                selected: require('./src/images/Tab/main_tab_home_selected.png'),
+                normal: require('./src/images/Tab/main_tab_home_normal.png'),
+              },
+              DApp: {
+                selected: require('./src/images/Tab/main_tab_dapp_selected.png'),
+                normal: require('./src/images/Tab/main_tab_dapp_normal.png'),
+              },
+              Social: {
+                selected: require('./src/images/Tab/main_tab_social_selected.png'),
+                normal: require('./src/images/Tab/main_tab_social_normal.png'),
+              },
+              Profiles: {
+                selected: require('./src/images/Tab/main_tab_me_selected.png'),
+                normal: require('./src/images/Tab/main_tab_me_normal.png'),
+              },
             }
 
+            const routeName = route.name
+
+            console.log(routeName)
+
             // You can return any component that you like here!
-            return <Text>{iconName}</Text>;
+            const textColor = focused ? '#0966C3' : '#919191'
+            const icon = images[routeName][focused ? 'selected' : 'normal']
+            return (
+              <View
+                style={{
+                  // width: apx(750 / 3),
+                  // height: apx(98),
+                  // borderTopWidth: apx(1),
+                  borderColor: '#D9D9D9',
+                  backgroundColor: '#fff',
+                  ...styles.center,
+                }}
+              >
+                <Image
+                  source={icon}
+                  style={{ width: apx(40), height: apx(40), marginBottom: apx(6) }}
+                />
+              </View>
+            )
           },
           tabBarActiveTintColor: 'tomato',
           tabBarInactiveTintColor: 'gray',
@@ -67,5 +105,12 @@ export default function Main() {
     </NavigationContainer>
   );
 }
+
+export const styles = StyleSheet.create({
+  center: {
+    justifyContent: 'center',
+    alignItems: 'center',
+  },
+})
 
 

@@ -102,7 +102,7 @@ export default class Entry extends Component {
 
   render() {
     return (
-      <View>
+      <>
         <StatusBar
           animated
           translucent
@@ -121,7 +121,7 @@ export default class Entry extends Component {
             window.$update = ref;
           }}
         />
-      </View>
+      </>
     );
   }
 }

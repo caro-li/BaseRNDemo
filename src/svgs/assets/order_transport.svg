@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="52px" height="52px" viewBox="0 0 52 52" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>矩形</title>
+    <desc>Created with Sketch.</desc>
+    <g id="我的" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="4-我的" transform="translate(-434.000000, -648.000000)" fill="#FFFFFF" stroke="#333333" stroke-width="3">
+            <g id="我的钱包备份" transform="translate(30.000000, 525.000000)">
+                <g id="待发货" transform="translate(391.000000, 123.000000)">
+                    <g id="daifahuo-copy" transform="translate(13.000000, 0.000000)">
+                        <path d="M30.5,38.5 L30.5,12 C30.5,9.51471863 28.4852814,7.5 26,7.5 L6,7.5 C3.51471863,7.5 1.5,9.51471863 1.5,12 L1.5,34 C1.5,36.4852814 3.51471863,38.5 6,38.5 L30.5,38.5 Z" id="矩形"></path>
+                        <path d="M30.5,13.5 L30.5,38.5 L46,38.5 C48.4852814,38.5 50.5,36.4852814 50.5,34 L50.5,25.8443482 C50.5,24.8686377 50.1828737,23.9193602 49.5964114,23.1395699 L43.6968575,15.2952217 C42.8467727,14.1649055 41.5147513,13.5 40.1004462,13.5 L30.5,13.5 Z" id="矩形"></path>
+                        <circle id="椭圆形" cx="14" cy="39" r="5.5"></circle>
+                        <circle id="椭圆形备份" cx="41" cy="39" r="5.5"></circle>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
