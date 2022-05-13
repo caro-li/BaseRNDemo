@@ -15,6 +15,7 @@ export default function MainHome() {
   return (
     <Container>
       <Text>Home Screen</Text>
+      <Text>测试code push（环境Prod）</Text>
       <Button
         onPress={() =>
           navigation.navigate('MainHomeDetail', { names: ['Brent', 'Satya', 'Michaś'] })

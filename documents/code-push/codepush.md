@@ -117,12 +117,12 @@
     </plist>
     
 #### 4.在build Settings > User-defined 中添加变量
-    ./181644283509_.pic.jpg
-    ./171644283239_.pic.jpg
     key：CC4jVaA1v1drTfhykFQOYFSMRDxKKffeWZNBH
     
     CODEPUSH_KEY 
         release：key
+![](171644283239_.pic.jpg)
+![](181644283509_.pic.jpg)
 
 #### 5.添加不同环境，如test，staging，production
     1）复制targets
